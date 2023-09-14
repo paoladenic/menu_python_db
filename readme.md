@@ -6,13 +6,15 @@ Este repositorio contiene un sistema de edición del menú para restaurantes des
 Menú principal:
 
 
-![inicio](https://github.com/paoladenic/db_menu_python/assets/126211693/d115509a-eb99-48ab-be12-ee214afcc18b)
+![inicio](https://github.com/paoladenic/menu_python_db/assets/126211693/cf461560-cb36-4b23-895f-0467bf0e6842)
+
 
 
 Menú digital:
 
 
-![grafic](https://github.com/paoladenic/db_menu_python/assets/126211693/0a98ac34-877b-4da6-b007-3682efb04b12)
+![grafic](https://github.com/paoladenic/menu_python_db/assets/126211693/18ca43d5-ed64-45c8-a4fd-335f44ec5c74)
+
 
 ## Funcionalidades principales
 El sistema de edición del menú para restaurantes ofrece las siguientes funcionalidades principales:
